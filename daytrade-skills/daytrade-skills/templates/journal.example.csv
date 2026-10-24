@@ -1,0 +1,7 @@
+date,symbol,side,entry,exit,shares,stop,fees,setup,note
+2026-10-05,AAPL,long,225.00,226.50,100,224.00,1.00,ORB,followed plan
+2026-10-05,TSLA,short,251.00,252.20,50,252.50,1.00,fade,exited early
+2026-10-06,NVDA,long,130.00,128.90,200,129.00,2.00,ORB,moved stop
+2026-10-07,AMD,long,160.00,162.40,100,159.00,1.00,flag,followed plan
+2026-10-08,META,long,580.00,577.00,20,577.50,1.00,ORB,revenge trade
+2026-10-08,AAPL,long,226.00,227.50,100,225.00,1.00,flag,followed plan
