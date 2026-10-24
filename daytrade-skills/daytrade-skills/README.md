@@ -9,7 +9,7 @@ Six free Claude skills for day traders. MIT, no signup, no API key, nothing to c
 Paste this repo link into Claude and say "install skills". Or, in Claude Code:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/daytrade-skills.git
+git clone https://github.com/srivatsa2512/daytrade-skills.git
 cp -r daytrade-skills/skills/dt-* ~/.claude/skills/
 ```
 
